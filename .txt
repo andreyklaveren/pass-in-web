@@ -1,0 +1,7 @@
+yarn
+react
+react-dom
+typescript
+tailwind
+tailwind-merge //biblioteca para mesclar classes dentro de um componente
+lucid-react //Icons
